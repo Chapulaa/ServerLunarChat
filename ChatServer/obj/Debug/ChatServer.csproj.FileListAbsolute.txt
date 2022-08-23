@@ -1,0 +1,12 @@
+D:\Meus Documentos\Área de Trabalho\Programas e etc\Desenvolvimento\Projetos\C#\Curso Udemy C#\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.AssemblyReference.cache
+D:\Meus Documentos\Área de Trabalho\Programas e etc\Desenvolvimento\Projetos\C#\Curso Udemy C#\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.SuggestedBindingRedirects.cache
+D:\Meus Documentos\Área de Trabalho\Programas e etc\Desenvolvimento\Projetos\C#\Curso Udemy C#\ChatServer\ChatServer\obj\Debug\ChatServer.Properties.Resources.resources
+D:\Meus Documentos\Área de Trabalho\Programas e etc\Desenvolvimento\Projetos\C#\Curso Udemy C#\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.GenerateResource.cache
+D:\Meus Documentos\Área de Trabalho\Programas e etc\Desenvolvimento\Projetos\C#\Curso Udemy C#\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+D:\Meus Documentos\Área de Trabalho\Programas e etc\Desenvolvimento\Projetos\C#\Curso Udemy C#\ChatServer\ChatServer\bin\Debug\ChatServer.exe.config
+D:\Meus Documentos\Área de Trabalho\Programas e etc\Desenvolvimento\Projetos\C#\Curso Udemy C#\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+D:\Meus Documentos\Área de Trabalho\Programas e etc\Desenvolvimento\Projetos\C#\Curso Udemy C#\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+D:\Meus Documentos\Área de Trabalho\Programas e etc\Desenvolvimento\Projetos\C#\Curso Udemy C#\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+D:\Meus Documentos\Área de Trabalho\Programas e etc\Desenvolvimento\Projetos\C#\Curso Udemy C#\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
+D:\Meus Documentos\Área de Trabalho\Programas e etc\Desenvolvimento\Projetos\C#\Curso Udemy C#\ChatServer\ChatServer\obj\Debug\ChatServer.Controls.TextBoxControl.resources
+D:\Meus Documentos\Área de Trabalho\Programas e etc\Desenvolvimento\Projetos\C#\Curso Udemy C#\ChatServer\ChatServer\obj\Debug\ChatServer.FormServidor.resources
