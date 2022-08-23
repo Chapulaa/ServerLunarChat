@@ -65,11 +65,13 @@
             // 
             this.listLogs.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(58)))), ((int)(((byte)(52)))), ((int)(((byte)(95)))));
             this.listLogs.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.listLogs.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.listLogs.ForeColor = System.Drawing.Color.White;
             this.listLogs.FormattingEnabled = true;
+            this.listLogs.ItemHeight = 20;
             this.listLogs.Location = new System.Drawing.Point(12, 87);
             this.listLogs.Name = "listLogs";
-            this.listLogs.Size = new System.Drawing.Size(540, 351);
+            this.listLogs.Size = new System.Drawing.Size(540, 340);
             this.listLogs.TabIndex = 3;
             // 
             // txtPort
@@ -127,6 +129,7 @@
             this.btnIniciarServidor.Text = "Iniciar Servidor";
             this.btnIniciarServidor.TextColor = System.Drawing.Color.White;
             this.btnIniciarServidor.UseVisualStyleBackColor = false;
+            this.btnIniciarServidor.Click += new System.EventHandler(this.btnIniciarServidor_Click);
             // 
             // FormServidor
             // 

@@ -196,6 +196,8 @@ namespace ChatServer
             {
                 //Aceita uma conexão pendente
                 tcpClient = tlsCliente.AcceptTcpClient();
+                //Cria uma nova instancia da conexão
+                Conexao newConnection = new Conexao(tcpClient);
             }
         }
     }

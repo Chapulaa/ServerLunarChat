@@ -51,6 +51,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Conexao.cs" />
     <Compile Include="Controls\ButtonControl.cs">
       <SubType>Component</SubType>
     </Compile>
