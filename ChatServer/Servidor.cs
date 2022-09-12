@@ -8,6 +8,7 @@ using System.Net.Sockets;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
+using System.Windows.Forms;
 
 namespace ChatServer
 {
@@ -150,7 +151,7 @@ namespace ChatServer
 
                     //Envia a mensagem para o usuário atual no laço
                     swSender = new StreamWriter(tcpClientes[i].GetStream());
-                    swSender.WriteLine("Administrador: " + pMensagem);
+                    swSender.WriteLine(Origem + " disse: " + pMensagem);
                     swSender.Flush();
                     swSender = null;
                 }
